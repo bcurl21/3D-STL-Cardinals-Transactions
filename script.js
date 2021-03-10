@@ -22,7 +22,7 @@
         position: {
   latitude: 20,
   longitude: -98,
-  z: 2400000  // altitude in meters
+  z: 3000000  // altitude in meters
 },
         tilt:25,
         heading: 0
